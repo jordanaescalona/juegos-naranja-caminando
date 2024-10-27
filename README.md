@@ -24,7 +24,13 @@ pip install pgzero
 >## Cómo ejecutar el proyecto
 >1. Clona este repositorio en tu equipo:
 >   ```bash
->   git clone https://github.com/jordanaescalona/juegospython-naranja-caminando.git
+>   git clone https://github.com/jordanaescalona/juegos-naranja-caminando.git
 >   ```
 >3. Navega al directorio del proyecto:
->   
+>   ```bash
+>   cd naranja-caminando
+>   ```
+>4. Ejecuta el proyecto con Pygame Zero:
+>   ```bash
+>   pgzrun.py main.py
+>   ```
