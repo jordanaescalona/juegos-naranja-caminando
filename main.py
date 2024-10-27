@@ -43,6 +43,7 @@ def update():
 
 def draw():
     screen.clear()  # Limpiar la pantalla
+    screen.fill((255, 255, 255))  # Color RGB para blanco
     character.draw()  # Dibujar el personaje
 
 pgzrun.go()
