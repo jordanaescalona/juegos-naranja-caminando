@@ -2,6 +2,8 @@
 
 ¡Bienvenido al proyecto **Naranja Caminando**! Este proyecto permite a una naranja en pantalla simular movimiento mediante un cambio continuo de sprites, logrando un efecto visual de desplazamiento.
 
+![Demo](assets/naranja-caminando.gif)
+
 ## Descripción 📖
 
 Este proyecto fue desarrollado en Python usando la biblioteca **Pygame Zero**. La animación de la naranja se crea utilizando un total de 16 sprites diferentes, que cambian rápidamente para dar la impresión de que el objeto "camina" o se desplaza.
